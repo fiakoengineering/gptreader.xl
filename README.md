@@ -8,7 +8,7 @@
 
 </div>
 
-[Download Lembar Kerja (fiako-gptreader.xl-v1.0.0)](workbook/fiako-gptreader-v1-0-0.xlsx)
+[Download Lembar Kerja `fiako-gptreader.xl` versi terakhir)](https://github.com/fiakoenjiniring/gptreader.xl/releases/latest/download/fiako-gptreader.xlsx)
 
 ---
 
